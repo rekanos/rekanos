@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rekan Othman</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **Bruska ERP**
+- 🔭 I’m currently working on **Qallam Media Project**
 
 - 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://rekan.netlify.app/](https://rekan.netlify.app/)
 
 - 💬 Ask me about **react, vue, next.js, node.js and django**
 
