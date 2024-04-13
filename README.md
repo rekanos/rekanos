@@ -1,4 +1,3 @@
-# Rekan Othman
 Experienced Software Developer | Proficient in Vue.js & Python | DevOps Enthusiast
 
 ### Currently learning
